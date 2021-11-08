@@ -122,4 +122,28 @@ hr {
     justify-content: center;
 }
 
+.ticTac {
+    width: 8rem;
+    border: 3px solid black;
+}
 
+.project {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.moreInfo2 {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    justify-content: space-around;
+    
+    
+}
+
+.project p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
