@@ -42,7 +42,7 @@
 }
 
 .section1 {
-    margin-left: 18%;
+    margin-left: 16%;
 }
 
 .aside {
@@ -75,8 +75,25 @@
 }
 
 .article {
-    padding: .5rem
-    ;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.article_Title {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.article_Information_Holder {
+    width: 60%;
+}
+
+.article_Information_Holder p {
+    padding-bottom: 10px;
+    line-height: 1.5;
 }
 
 
