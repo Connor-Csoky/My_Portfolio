@@ -98,6 +98,14 @@
     background-color: rgb(123, 251, 255);
 }
 
+.aside_divs:hover > .aside_Links {
+    color: black;
+}
+
+.aside_divs:hover > .aside_Links2 {
+    color: black;
+}
+
 .article {
     padding: 1rem;
     display: flex;
