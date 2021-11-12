@@ -148,6 +148,16 @@ hr {
     color: rgb(123, 251, 255);
 }
 
+.workExp {
+    line-height: 1.5;
+    font-size: 1.3rem;
+}
+
+table, td, tr, th {
+    border: 1px solid white;
+    padding: 1rem;
+}
+
 .moreInfo p {
     padding-bottom: 20px;
 }
