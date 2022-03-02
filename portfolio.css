@@ -226,6 +226,7 @@ h1 {
     box-shadow: 5px 5px 1px rgb(140, 238, 230);
     border: 2px solid rgb(24, 23, 23);
     width: 200px;
+    height: 170px;
 }
 
 .test span {
@@ -241,4 +242,3 @@ h1 {
     justify-content: flex-start;
     flex-direction: column;
 }
-
